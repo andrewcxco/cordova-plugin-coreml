@@ -1,0 +1,24 @@
+{
+  "name": "CordovaPluginCoreml",
+  "version": "1.0.1",
+  "description": "Cordova for iOS CoreML",
+  "cordova": {
+    "id": "cordova-plugin-coreml",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "coreml",
+    "ecosystem:cordova",
+    "cordova-ios",
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewcxco/cordova-plugin-coreml.git"
+  },
+  "main": "index.js",
+  "author": "Boring Labs",
+  "license": "MIT"
+}
